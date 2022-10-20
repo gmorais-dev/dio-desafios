@@ -1,2 +1,3 @@
 # dio-desafios
-primeiro repositorio
+Repositorio para realizar os desafios da Dio.me
+
